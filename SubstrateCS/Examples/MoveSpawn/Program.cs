@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Substrate;
 
 // MoveSpawn changes the location of the world spawn location

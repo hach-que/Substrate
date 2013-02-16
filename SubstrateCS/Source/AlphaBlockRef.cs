@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Substrate.Core;
 
 //TODO: Benchmark struct vs. class.  If no difference, prefer class.
